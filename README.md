@@ -6,4 +6,4 @@
 ![PHP-777BB4_style=for-the-badge logo=php logoColor=white](https://user-images.githubusercontent.com/91760049/170317271-88c86b3e-45be-4c8e-81d5-ad04ef4d9300.png)
 ![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://user-images.githubusercontent.com/91760049/170317512-23c0eff4-2a4f-4104-9888-3877c8a7e444.png)
 
-![Snake animation](https://github.com/Kamis1725/Kamis1725/blob/output/github-contribution-grid-snake.svg)
+
